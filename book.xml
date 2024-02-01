@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xs/"href="lib.xsl"?>
+<booklibrary>
+<book>
+<bookname>XML</bookname>
+<price>100</price>
+<author>Atul Kahate</author>
+<publisher>TMH </publisher>
+</book>
+<book>
+<bookname> Making India Awesome </bookname>
+<price>200</price>
+<author>Chetan Bhagat </author>
+<publisher>TMH</publisher>
+</book>
+<book>
+<bookname>A Bend in the River</bookname>
+<price>300</price>
+<author>V.S. Naipaul</author>
+<publisher>TMH</publisher>
+</book>
+<book>
+<bookname>A River Sutra </bookname>
+<price>400</price>
+<author>Rahul Patil</author>
+<publisher>TMH</publisher>
+</book>
+</booklibrary>
